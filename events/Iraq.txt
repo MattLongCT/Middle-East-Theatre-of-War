@@ -1,0 +1,39 @@
+﻿###########################
+# Iraq Events
+###########################
+
+add_namespace = sports_car
+
+# President dies
+country_event = {
+	id = sports_car.1
+	title = sports_car.1.t
+	desc = sports_car.1.d
+	picture = GFX_report_event_generic_funeral
+
+	fire_only_once = yes
+	
+	trigger = {
+		tag = IRQ
+		has_government = neutrality
+		date > 1939.4.4
+		has_start_date < 1936.01.02
+	}	
+
+	mean_time_to_happen = {
+		days = 30
+		modifier = {
+			factor = 0.5
+			date > 1939.5.4
+		}
+		modifier = {
+			factor = 0.2
+			date > 1940.1.1
+		}
+	}
+
+	option = {
+		name = sports_car.1.a
+		kill_country_leader = yes
+	}
+}
