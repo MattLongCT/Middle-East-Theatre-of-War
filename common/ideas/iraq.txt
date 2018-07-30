@@ -9,7 +9,7 @@ ideas = {
 			picture = generic_political_advisor_arab_2
 
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { backroom_backstabber }
@@ -18,16 +18,16 @@ ideas = {
 				factor = 0
 			}
 		}
-
-		EGY_nuri_as_said = {
+#Hassan al-Banna
+		EGY_hassan_al_banna = {
 
 			picture = generic_political_advisor_arab_1
 				
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
-			traits = { armaments_organizer }
+			traits = { democratic_reformer }
 		}
 
 		EGY_amir_al_illah = {
@@ -35,7 +35,7 @@ ideas = {
 			picture = generic_political_advisor_arab_3
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { prince_of_terror }
@@ -44,12 +44,12 @@ ideas = {
 
 	army_chief = {
 
-		IRQ_fawsi_al_kaukji = {
+		EGY_fawsi_al_kaukji = {
 
 			picture = generic_army_arab_3
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}		
 			
 			traits = { army_chief_offensive_2 }
@@ -59,12 +59,12 @@ ideas = {
 			}
 		}
 
-		IRQ_abdullah = {
+		EGY_abdullah = {
 
 			picture = generic_army_arab_2
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { army_chief_defensive_2 }
@@ -77,12 +77,12 @@ ideas = {
 
 	air_chief = {
 
-		IRQ_khaled_al_dalabeeh = {
+		EGY_khaled_al_dalabeeh = {
 
 			picture = generic_air_arab_3
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { air_chief_ground_support_2 }
@@ -92,12 +92,12 @@ ideas = {
 			}
 		}
 
-		IRQ_abdullah_al-tell = {
+		EGY_abdullah_al-tell = {
 
 			picture = generic_air_arab_3
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { air_chief_reform_2 }
@@ -111,12 +111,12 @@ ideas = {
 
 	navy_chief = {
 
-		IRQ_jamil_al_midfai = {
+		EGY_jamil_al_midfai = {
 
 			picture = generic_navy_arab_2
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 					
 			traits = { navy_chief_reform_2 }
@@ -126,12 +126,12 @@ ideas = {
 			}
 		}
 
-		IRQ_hamdi_al_pachachi = {
+		EGY_hamdi_al_pachachi = {
 
 			picture = generic_navy_arab_1
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 					
 			traits = { navy_chief_decisive_battle_2 }
@@ -144,12 +144,12 @@ ideas = {
 
 	high_command = {
 
-		IRQ_ali_mahmud_al_shaykh = {
+		EGY_ali_mahmud_al_shaykh = {
 			
 			picture = generic_navy_arab_1
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { navy_amphibious_assault_2 }
@@ -159,12 +159,12 @@ ideas = {
 			}
 		}
 		
-		IRQ_fahmi_said = {
+		EGY_fahmi_said = {
 
 			picture = generic_air_arab_3
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { air_close_air_support_2 }
@@ -174,12 +174,12 @@ ideas = {
 			}
 		}
 
-		IRQ_bakr_sidqi = {
+		EGY_bakr_sidqi = {
 
 			picture = generic_army_arab_1
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { army_entrenchment_2 }
@@ -189,12 +189,12 @@ ideas = {
 			}
 		}
 
-		IRQ_taha_al_ahmani = {
+		EGY_taha_al_ahmani = {
 
 			picture = generic_navy_arab_2
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			traits = { navy_naval_air_defense_2 }
@@ -206,12 +206,12 @@ ideas = {
 	}	
 
 	theorist = {
-		IRQ_mustafa_al_quidsi = {
+		EGY_mustafa_al_quidsi = {
 			
 			picture = generic_army_arab_2
 
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			research_bonus = {
@@ -221,12 +221,12 @@ ideas = {
 			traits = { military_theorist }
 		}
 		
-		IRQ_iskandar_al-shami = {
+		EGY_iskandar_al-shami = {
 
 			picture = generic_navy_arab_1
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			research_bonus = {
@@ -236,12 +236,12 @@ ideas = {
 			traits = { naval_theorist }
 		}	
 
-		IRQ_ali_ben_jawad = {
+		EGY_ali_ben_jawad = {
 
 			picture = generic_air_arab_1
 			
 			allowed = {
-				original_tag = IRQ
+				original_tag = EGY
 			}
 			
 			research_bonus = {
