@@ -2,13 +2,13 @@
 # Iraq Events
 ###########################
 
-add_namespace = sports_car
+add_namespace = iraqcrash
 
 # President dies
 country_event = {
-	id = sports_car.1
-	title = sports_car.1.t
-	desc = sports_car.1.d
+	id = iraqcrash.1
+	title = iraqcrash.1.t
+	desc = iraqcrash.1.d
 	picture = GFX_report_event_generic_funeral
 
 	fire_only_once = yes
@@ -33,7 +33,7 @@ country_event = {
 	}
 
 	option = {
-		name = sports_car.1.a
+		name = iraqcrash.1.a
 		kill_country_leader = yes
 	}
 }
