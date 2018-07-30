@@ -35,12 +35,12 @@ country_event = {
 	option = {
 		name = iraqcrash.1.a
 		kill_country_leader = yes
-create_country_leader = {
-			name = "Winston Churchill"
-			desc = "POLITICS_WINSTON_CHURCHILL_DESC"
-			picture = "Portrait_Britain_Winston_Churchill.dds"
+		create_country_leader = {
+			name = "'Abd al-Ilah"
+			desc = ""
+			picture = "Portrait_Europe_More_Generic_1.dds"
 			expire = "1965.1.1"
-			ideology = conservatism
+			ideology = centrism
 			traits = {
 				
 			}
